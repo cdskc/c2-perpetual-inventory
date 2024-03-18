@@ -3,6 +3,10 @@
 
 Replace paper logs and basic spreadsheets with a more powerful alternative. From the Home sheet, scan the barcode of a stock bottle and you're taken to the page for that drug. For an NDC[^1] that's not in the system, a new sheet is created based on a blank template. When the user enters the quantity for receiving or dispensing, the new balance on hand is calculated automatically, but is highlighted in red as a reminder to backcount. Double-click the cell to confirm, which changes the visual indicator and records the date.
 
+Version 0.5 updates:
+- I think this is the first version that I would call stable and minimally functional.
+- Added barcode scanning in the Rx# field that should be compatible with the vial/label barcode from the implementation of McKesson Enterprise that we use.
+
 Version 0.4 updates:
 - Cleaned up formatting of template and example.
 - Fixed some bugs causing unwanted behavior (color changes, date stamp) in the top few rows of the sheet.
