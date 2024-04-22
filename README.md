@@ -10,7 +10,7 @@ Steps:
 4. After verifying backcount, double-click the red total cell to confirm. It will turn green and record the date.
 5. Double-click the Home button to start over.
 
-Notes on macros: Excel puts up a few hurdles to running macros, and for good reason. After downloading the file, you will need to find the file on your computer, right-click, select "Properties", then check the "Unblock" box in the Properties dialog. 
+Notes on macros: For security reasons, Excel puts up a few hurdles to running macros. You should only do the following for files you trust. After downloading, find the file on your computer, right-click, select "Properties", then check the "Unblock" box in the Properties dialog. 
 
 ![](https://learn.microsoft.com/en-us/deployoffice/images/security/vba-unblock-file-properties.png)
 
