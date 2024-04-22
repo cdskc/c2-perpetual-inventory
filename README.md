@@ -12,7 +12,7 @@ Steps:
 
 Notes on macros: Excel puts up a few hurdles to running macros, and for good reason. After downloading the file, you will need to find the file on your computer, right-click, select "Properties", then check the "Unblock" box in the Properties dialog. 
 
-!(https://learn.microsoft.com/en-us/deployoffice/images/security/vba-unblock-file-properties.png)
+![](https://learn.microsoft.com/en-us/deployoffice/images/security/vba-unblock-file-properties.png)
 
 Version 0.6 updates:
 - Input validation: The stock bottle barcode scan input now only accepts a 14-character input. Warning, this may break the function if anyone out there besides me and my coworkers are wanting to use this. Our scanners append '^' to the beginning and end of all scans.)
