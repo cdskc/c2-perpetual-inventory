@@ -1,6 +1,8 @@
 # C-II perpetual inventory
 ## An Excel Workbook powered by macros to track controlled substance inventory.
 
+[Download Version 0.6](https://github.com/cdskc/c2-perpetual-inventory/archive/refs/tags/v0.6.zip)
+
 Replace paper logs and basic spreadsheets with a more powerful alternative. From the Home sheet, scan the barcode of a stock bottle and you're taken to the page for that drug. For an NDC[^1] that's not in the system, a new sheet is created based on a blank template.
 
 ![](example.png)
