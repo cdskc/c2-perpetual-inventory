@@ -3,6 +3,8 @@
 
 Replace paper logs and basic spreadsheets with a more powerful alternative. From the Home sheet, scan the barcode of a stock bottle and you're taken to the page for that drug. For an NDC[^1] that's not in the system, a new sheet is created based on a blank template.
 
+![](example.png)
+
 Steps:
 1. Scan stock bottle barcode (then press Enter if your scanner doesn't automatically)
 2. Scan Rx # barcode (then press Enter if your scanner doesn't automatically)
